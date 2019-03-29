@@ -386,7 +386,7 @@ Wire Wire Line
 	3025 1500 3100 1500
 NoConn ~ 3100 2100
 $Comp
-L MX_Alps_Hybrids:MX-1U ESC1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids ESC1
 U 1 1 5C974D24
 P 6600 1375
 F 0 "ESC1" H 6686 1592 60  0000 C CNN
@@ -410,7 +410,7 @@ $EndComp
 Wire Wire Line
 	6475 1550 6575 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U NUM1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids NUM1
 U 1 1 5C976CAE
 P 6600 2125
 F 0 "NUM1" H 6686 2342 60  0000 C CNN
@@ -447,7 +447,7 @@ Wire Wire Line
 Wire Wire Line
 	6575 2300 6475 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U DIV1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids DIV1
 U 1 1 5C97B918
 P 7250 1375
 F 0 "DIV1" H 7336 1592 60  0000 C CNN
@@ -471,7 +471,7 @@ $EndComp
 Wire Wire Line
 	7125 1550 7225 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U SEVEN1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids SEVEN1
 U 1 1 5C97B927
 P 7250 2125
 F 0 "SEVEN1" H 7336 2342 60  0000 C CNN
@@ -482,7 +482,7 @@ F 3 "" H 7225 2100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U FOUR1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FOUR1
 U 1 1 5C97B92E
 P 7250 2875
 F 0 "FOUR1" H 7336 3092 60  0000 C CNN
@@ -519,7 +519,7 @@ Wire Wire Line
 Wire Wire Line
 	7225 2300 7125 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U MULT1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MULT1
 U 1 1 5C97C638
 P 7900 1375
 F 0 "MULT1" H 7986 1592 60  0000 C CNN
@@ -543,7 +543,7 @@ $EndComp
 Wire Wire Line
 	7775 1550 7875 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U EIGHT1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids EIGHT1
 U 1 1 5C97C647
 P 7900 2125
 F 0 "EIGHT1" H 7986 2342 60  0000 C CNN
@@ -554,7 +554,7 @@ F 3 "" H 7875 2100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U FIVE1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FIVE1
 U 1 1 5C97C64E
 P 7900 2875
 F 0 "FIVE1" H 7986 3092 60  0000 C CNN
@@ -591,7 +591,7 @@ Wire Wire Line
 Wire Wire Line
 	7875 2300 7775 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U MINUS1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MINUS1
 U 1 1 5C97D4C9
 P 8550 1375
 F 0 "MINUS1" H 8636 1592 60  0000 C CNN
@@ -615,7 +615,7 @@ $EndComp
 Wire Wire Line
 	8425 1550 8525 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U NINE1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids NINE1
 U 1 1 5C97D4D8
 P 8550 2125
 F 0 "NINE1" H 8636 2342 60  0000 C CNN
@@ -626,7 +626,7 @@ F 3 "" H 8525 2100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U SIX1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids SIX1
 U 1 1 5C97D4DF
 P 8550 2875
 F 0 "SIX1" H 8636 3092 60  0000 C CNN
@@ -663,7 +663,7 @@ Wire Wire Line
 Wire Wire Line
 	8525 2300 8425 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U ONE1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids ONE1
 U 1 1 5C97EDB7
 P 7250 3625
 F 0 "ONE1" H 7336 3842 60  0000 C CNN
@@ -687,7 +687,7 @@ $EndComp
 Wire Wire Line
 	7125 3800 7225 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U TWO1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids TWO1
 U 1 1 5C97EDC6
 P 7900 3625
 F 0 "TWO1" H 7986 3842 60  0000 C CNN
@@ -711,7 +711,7 @@ $EndComp
 Wire Wire Line
 	7775 3800 7875 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U THREE1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids THREE1
 U 1 1 5C97EDD5
 P 8550 3625
 F 0 "THREE1" H 8636 3842 60  0000 C CNN
@@ -735,7 +735,7 @@ $EndComp
 Wire Wire Line
 	8425 3800 8525 3800
 $Comp
-L MX_Alps_Hybrids:MX-2U ZERO1
+L Custom-Keyboard-rescue:MX-2U-MX_Alps_Hybrids ZERO1
 U 1 1 5C980428
 P 7500 4425
 F 0 "ZERO1" H 7586 4642 60  0000 C CNN
@@ -746,7 +746,7 @@ F 3 "" H 7475 4400 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U DEL1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids DEL1
 U 1 1 5C98054F
 P 8550 4425
 F 0 "DEL1" H 8636 4642 60  0000 C CNN
@@ -796,7 +796,7 @@ Wire Wire Line
 Wire Wire Line
 	8425 4600 8525 4600
 $Comp
-L MX_Alps_Hybrids:MX-1U UP1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids UP1
 U 1 1 5C985E64
 P 9500 4425
 F 0 "UP1" H 9586 4642 60  0000 C CNN
@@ -820,7 +820,7 @@ $EndComp
 Wire Wire Line
 	9375 4600 9475 4600
 $Comp
-L MX_Alps_Hybrids:MX-1U LEFT1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids LEFT1
 U 1 1 5C9872DD
 P 8950 5225
 F 0 "LEFT1" H 9036 5442 60  0000 C CNN
@@ -844,7 +844,7 @@ $EndComp
 Wire Wire Line
 	8825 5400 8925 5400
 $Comp
-L MX_Alps_Hybrids:MX-1U DOWN1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids DOWN1
 U 1 1 5C9872EC
 P 9500 5225
 F 0 "DOWN1" H 9586 5442 60  0000 C CNN
@@ -868,7 +868,7 @@ $EndComp
 Wire Wire Line
 	9375 5400 9475 5400
 $Comp
-L MX_Alps_Hybrids:MX-1U RGHT1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids RGHT1
 U 1 1 5C9872FB
 P 10150 5225
 F 0 "RGHT1" H 10236 5442 60  0000 C CNN
@@ -925,7 +925,7 @@ Wire Wire Line
 	7675 4125 7675 4400
 Connection ~ 7425 3600
 $Comp
-L MX_Alps_Hybrids:MX-1U TILDE1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids TILDE1
 U 1 1 5C9B0C76
 P 10225 1375
 F 0 "TILDE1" H 10311 1592 60  0000 C CNN
@@ -949,7 +949,7 @@ $EndComp
 Wire Wire Line
 	10100 1550 10200 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U ONE2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids ONE2
 U 1 1 5C9B0C85
 P 10875 1375
 F 0 "ONE2" H 10961 1592 60  0000 C CNN
@@ -973,7 +973,7 @@ $EndComp
 Wire Wire Line
 	10750 1550 10850 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U TWO2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids TWO2
 U 1 1 5C9B0C94
 P 11525 1375
 F 0 "TWO2" H 11611 1592 60  0000 C CNN
@@ -997,7 +997,7 @@ $EndComp
 Wire Wire Line
 	11400 1550 11500 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U THREE2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids THREE2
 U 1 1 5C9B0CA3
 P 12175 1375
 F 0 "THREE2" H 12261 1592 60  0000 C CNN
@@ -1021,7 +1021,7 @@ $EndComp
 Wire Wire Line
 	12050 1550 12150 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U FOUR2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FOUR2
 U 1 1 5C9BBFFD
 P 12800 1375
 F 0 "FOUR2" H 12886 1592 60  0000 C CNN
@@ -1045,7 +1045,7 @@ $EndComp
 Wire Wire Line
 	12675 1550 12775 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U FIVE2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FIVE2
 U 1 1 5C9BC00C
 P 13450 1375
 F 0 "FIVE2" H 13536 1592 60  0000 C CNN
@@ -1069,7 +1069,7 @@ $EndComp
 Wire Wire Line
 	13325 1550 13425 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U SIX2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids SIX2
 U 1 1 5C9BC01B
 P 14100 1375
 F 0 "SIX2" H 14186 1592 60  0000 C CNN
@@ -1093,7 +1093,7 @@ $EndComp
 Wire Wire Line
 	13975 1550 14075 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U SEVEN2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids SEVEN2
 U 1 1 5C9BC02A
 P 14750 1375
 F 0 "SEVEN2" H 14836 1592 60  0000 C CNN
@@ -1117,7 +1117,7 @@ $EndComp
 Wire Wire Line
 	14625 1550 14725 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U EIGHT2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids EIGHT2
 U 1 1 5C9C04BD
 P 15400 1375
 F 0 "EIGHT2" H 15486 1592 60  0000 C CNN
@@ -1141,7 +1141,7 @@ $EndComp
 Wire Wire Line
 	15275 1550 15375 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U NINE2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids NINE2
 U 1 1 5C9C04CC
 P 16050 1375
 F 0 "NINE2" H 16136 1592 60  0000 C CNN
@@ -1165,7 +1165,7 @@ $EndComp
 Wire Wire Line
 	15925 1550 16025 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U ZERO2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids ZERO2
 U 1 1 5C9C04DB
 P 16700 1375
 F 0 "ZERO2" H 16786 1592 60  0000 C CNN
@@ -1189,7 +1189,7 @@ $EndComp
 Wire Wire Line
 	16575 1550 16675 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U MINUS2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MINUS2
 U 1 1 5C9C04EA
 P 17350 1375
 F 0 "MINUS2" H 17436 1592 60  0000 C CNN
@@ -1213,7 +1213,7 @@ $EndComp
 Wire Wire Line
 	17225 1550 17325 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U EQUALS1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids EQUALS1
 U 1 1 5C9C04F9
 P 17975 1375
 F 0 "EQUALS1" H 18061 1592 60  0000 C CNN
@@ -1237,7 +1237,7 @@ $EndComp
 Wire Wire Line
 	17850 1550 17950 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U QKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids QKEY1
 U 1 1 5C9C6F6D
 P 10875 2125
 F 0 "QKEY1" H 10961 2342 60  0000 C CNN
@@ -1261,7 +1261,7 @@ $EndComp
 Wire Wire Line
 	10750 2300 10850 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U WKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids WKEY1
 U 1 1 5C9C6F7C
 P 11525 2125
 F 0 "WKEY1" H 11611 2342 60  0000 C CNN
@@ -1285,7 +1285,7 @@ $EndComp
 Wire Wire Line
 	11400 2300 11500 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U EKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids EKEY1
 U 1 1 5C9C6F8B
 P 12175 2125
 F 0 "EKEY1" H 12261 2342 60  0000 C CNN
@@ -1309,7 +1309,7 @@ $EndComp
 Wire Wire Line
 	12050 2300 12150 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U RKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids RKEY1
 U 1 1 5C9C6F9A
 P 12800 2125
 F 0 "RKEY1" H 12886 2342 60  0000 C CNN
@@ -1333,7 +1333,7 @@ $EndComp
 Wire Wire Line
 	12675 2300 12775 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U TKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids TKEY1
 U 1 1 5C9C6FA9
 P 13450 2125
 F 0 "TKEY1" H 13536 2342 60  0000 C CNN
@@ -1357,7 +1357,7 @@ $EndComp
 Wire Wire Line
 	13325 2300 13425 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U YKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids YKEY1
 U 1 1 5C9C6FB8
 P 14100 2125
 F 0 "YKEY1" H 14186 2342 60  0000 C CNN
@@ -1381,7 +1381,7 @@ $EndComp
 Wire Wire Line
 	13975 2300 14075 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U UKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids UKEY1
 U 1 1 5C9C6FC7
 P 14750 2125
 F 0 "UKEY1" H 14836 2342 60  0000 C CNN
@@ -1405,7 +1405,7 @@ $EndComp
 Wire Wire Line
 	14625 2300 14725 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U IKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids IKEY1
 U 1 1 5C9C6FD6
 P 15400 2125
 F 0 "IKEY1" H 15486 2342 60  0000 C CNN
@@ -1429,7 +1429,7 @@ $EndComp
 Wire Wire Line
 	15275 2300 15375 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U OKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids OKEY1
 U 1 1 5C9C6FE5
 P 16050 2125
 F 0 "OKEY1" H 16136 2342 60  0000 C CNN
@@ -1453,7 +1453,7 @@ $EndComp
 Wire Wire Line
 	15925 2300 16025 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U PKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids PKEY1
 U 1 1 5C9C6FF4
 P 16700 2125
 F 0 "PKEY1" H 16786 2342 60  0000 C CNN
@@ -1477,7 +1477,7 @@ $EndComp
 Wire Wire Line
 	16575 2300 16675 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U OBRAC1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids OBRAC1
 U 1 1 5C9C7003
 P 17350 2125
 F 0 "OBRAC1" H 17436 2342 60  0000 C CNN
@@ -1501,7 +1501,7 @@ $EndComp
 Wire Wire Line
 	17225 2300 17325 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U CBRAC1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids CBRAC1
 U 1 1 5C9C7012
 P 17975 2125
 F 0 "CBRAC1" H 18061 2342 60  0000 C CNN
@@ -1525,7 +1525,7 @@ $EndComp
 Wire Wire Line
 	17850 2300 17950 2300
 $Comp
-L MX_Alps_Hybrids:MX-1.5U TAB1
+L Custom-Keyboard-rescue:MX-1.5U-MX_Alps_Hybrids TAB1
 U 1 1 5C9DFA10
 P 10225 2125
 F 0 "TAB1" H 10311 2342 60  0000 C CNN
@@ -1549,7 +1549,7 @@ $EndComp
 Wire Wire Line
 	10100 2300 10200 2300
 $Comp
-L MX_Alps_Hybrids:MX-2U BACK1
+L Custom-Keyboard-rescue:MX-2U-MX_Alps_Hybrids BACK1
 U 1 1 5C9E5538
 P 18600 1375
 F 0 "BACK1" H 18686 1592 60  0000 C CNN
@@ -1573,7 +1573,7 @@ $EndComp
 Wire Wire Line
 	18475 1550 18575 1550
 $Comp
-L MX_Alps_Hybrids:MX-1.5U BSLSH1
+L Custom-Keyboard-rescue:MX-1.5U-MX_Alps_Hybrids BSLSH1
 U 1 1 5C9ECA0A
 P 18600 2125
 F 0 "BSLSH1" H 18686 2342 60  0000 C CNN
@@ -1597,7 +1597,7 @@ $EndComp
 Wire Wire Line
 	18475 2300 18575 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U AKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids AKEY1
 U 1 1 5C9F9328
 P 10875 2875
 F 0 "AKEY1" H 10961 3092 60  0000 C CNN
@@ -1621,7 +1621,7 @@ $EndComp
 Wire Wire Line
 	10750 3050 10850 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U SKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids SKEY1
 U 1 1 5C9F9337
 P 11525 2875
 F 0 "SKEY1" H 11611 3092 60  0000 C CNN
@@ -1645,7 +1645,7 @@ $EndComp
 Wire Wire Line
 	11400 3050 11500 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U DKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids DKEY1
 U 1 1 5C9F9346
 P 12175 2875
 F 0 "DKEY1" H 12261 3092 60  0000 C CNN
@@ -1669,7 +1669,7 @@ $EndComp
 Wire Wire Line
 	12050 3050 12150 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U FKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FKEY1
 U 1 1 5C9F9355
 P 12800 2875
 F 0 "FKEY1" H 12886 3092 60  0000 C CNN
@@ -1693,7 +1693,7 @@ $EndComp
 Wire Wire Line
 	12675 3050 12775 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U GKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids GKEY1
 U 1 1 5C9F9364
 P 13450 2875
 F 0 "GKEY1" H 13536 3092 60  0000 C CNN
@@ -1717,7 +1717,7 @@ $EndComp
 Wire Wire Line
 	13325 3050 13425 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U HKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids HKEY1
 U 1 1 5C9F9373
 P 14100 2875
 F 0 "HKEY1" H 14186 3092 60  0000 C CNN
@@ -1741,7 +1741,7 @@ $EndComp
 Wire Wire Line
 	13975 3050 14075 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U JKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids JKEY1
 U 1 1 5C9F9382
 P 14750 2875
 F 0 "JKEY1" H 14836 3092 60  0000 C CNN
@@ -1765,7 +1765,7 @@ $EndComp
 Wire Wire Line
 	14625 3050 14725 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U KKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids KKEY1
 U 1 1 5C9F9391
 P 15400 2875
 F 0 "KKEY1" H 15486 3092 60  0000 C CNN
@@ -1789,7 +1789,7 @@ $EndComp
 Wire Wire Line
 	15275 3050 15375 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U LKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids LKEY1
 U 1 1 5C9F93A0
 P 16050 2875
 F 0 "LKEY1" H 16136 3092 60  0000 C CNN
@@ -1813,7 +1813,7 @@ $EndComp
 Wire Wire Line
 	15925 3050 16025 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U CLN1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids CLN1
 U 1 1 5C9F93AF
 P 16700 2875
 F 0 "CLN1" H 16786 3092 60  0000 C CNN
@@ -1837,7 +1837,7 @@ $EndComp
 Wire Wire Line
 	16575 3050 16675 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U QUT1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids QUT1
 U 1 1 5C9F93BE
 P 17350 2875
 F 0 "QUT1" H 17436 3092 60  0000 C CNN
@@ -1861,7 +1861,7 @@ $EndComp
 Wire Wire Line
 	17225 3050 17325 3050
 $Comp
-L MX_Alps_Hybrids:MX-1U ZKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids ZKEY1
 U 1 1 5C9F93DC
 P 10875 3625
 F 0 "ZKEY1" H 10961 3842 60  0000 C CNN
@@ -1885,7 +1885,7 @@ $EndComp
 Wire Wire Line
 	10750 3800 10850 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U XKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids XKEY1
 U 1 1 5C9F93EB
 P 11525 3625
 F 0 "XKEY1" H 11611 3842 60  0000 C CNN
@@ -1909,7 +1909,7 @@ $EndComp
 Wire Wire Line
 	11400 3800 11500 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U CKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids CKEY1
 U 1 1 5C9F93FA
 P 12175 3625
 F 0 "CKEY1" H 12261 3842 60  0000 C CNN
@@ -1933,7 +1933,7 @@ $EndComp
 Wire Wire Line
 	12050 3800 12150 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U VKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids VKEY1
 U 1 1 5C9F9409
 P 12800 3625
 F 0 "VKEY1" H 12886 3842 60  0000 C CNN
@@ -1957,7 +1957,7 @@ $EndComp
 Wire Wire Line
 	12675 3800 12775 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U BKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids BKEY1
 U 1 1 5C9F9418
 P 13450 3625
 F 0 "BKEY1" H 13536 3842 60  0000 C CNN
@@ -1981,7 +1981,7 @@ $EndComp
 Wire Wire Line
 	13325 3800 13425 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U NKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids NKEY1
 U 1 1 5C9F9427
 P 14100 3625
 F 0 "NKEY1" H 14186 3842 60  0000 C CNN
@@ -2005,7 +2005,7 @@ $EndComp
 Wire Wire Line
 	13975 3800 14075 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U MKEY1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MKEY1
 U 1 1 5C9F9436
 P 14750 3625
 F 0 "MKEY1" H 14836 3842 60  0000 C CNN
@@ -2029,7 +2029,7 @@ $EndComp
 Wire Wire Line
 	14625 3800 14725 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U CMMA1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids CMMA1
 U 1 1 5C9F9445
 P 15400 3625
 F 0 "CMMA1" H 15486 3842 60  0000 C CNN
@@ -2053,7 +2053,7 @@ $EndComp
 Wire Wire Line
 	15275 3800 15375 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U PER1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids PER1
 U 1 1 5C9F9454
 P 16050 3625
 F 0 "PER1" H 16136 3842 60  0000 C CNN
@@ -2077,7 +2077,7 @@ $EndComp
 Wire Wire Line
 	15925 3800 16025 3800
 $Comp
-L MX_Alps_Hybrids:MX-1U FSLSH1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids FSLSH1
 U 1 1 5C9F9463
 P 16700 3625
 F 0 "FSLSH1" H 16786 3842 60  0000 C CNN
@@ -2101,7 +2101,7 @@ $EndComp
 Wire Wire Line
 	16575 3800 16675 3800
 $Comp
-L MX_Alps_Hybrids:MX-1.75U CAPS1
+L Custom-Keyboard-rescue:MX-1.75U-MX_Alps_Hybrids CAPS1
 U 1 1 5CA002D8
 P 10225 2875
 F 0 "CAPS1" H 10311 3092 60  0000 C CNN
@@ -2125,7 +2125,7 @@ $EndComp
 Wire Wire Line
 	10100 3050 10200 3050
 $Comp
-L MX_Alps_Hybrids:MX-2.25U ENTER2
+L Custom-Keyboard-rescue:MX-2.25U-MX_Alps_Hybrids ENTER2
 U 1 1 5CA380BD
 P 18600 2875
 F 0 "ENTER2" H 18686 3092 60  0000 C CNN
@@ -2149,7 +2149,7 @@ $EndComp
 Wire Wire Line
 	18475 3050 18575 3050
 $Comp
-L MX_Alps_Hybrids:MX-2.25U SHIFT1
+L Custom-Keyboard-rescue:MX-2.25U-MX_Alps_Hybrids SHIFT1
 U 1 1 5CA3E621
 P 10225 3625
 F 0 "SHIFT1" H 10311 3842 60  0000 C CNN
@@ -2173,7 +2173,7 @@ $EndComp
 Wire Wire Line
 	10100 3800 10200 3800
 $Comp
-L MX_Alps_Hybrids:MX-2.75U SHIFT2
+L Custom-Keyboard-rescue:MX-2.75U-MX_Alps_Hybrids SHIFT2
 U 1 1 5CA5CC75
 P 18600 3625
 F 0 "SHIFT2" H 18686 3842 60  0000 C CNN
@@ -2184,7 +2184,7 @@ F 3 "" H 18575 3600 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U MACRO1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MACRO1
 U 1 1 5CA871F6
 P 19225 1375
 F 0 "MACRO1" H 19311 1592 60  0000 C CNN
@@ -2208,7 +2208,7 @@ $EndComp
 Wire Wire Line
 	19100 1550 19200 1550
 $Comp
-L MX_Alps_Hybrids:MX-1U MACRO2
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MACRO2
 U 1 1 5CA87205
 P 19225 2125
 F 0 "MACRO2" H 19311 2342 60  0000 C CNN
@@ -2219,7 +2219,7 @@ F 3 "" H 19200 2100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrids:MX-1U MACRO3
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MACRO3
 U 1 1 5CA8720C
 P 19225 2875
 F 0 "MACRO3" H 19311 3092 60  0000 C CNN
@@ -2256,7 +2256,7 @@ Wire Wire Line
 Wire Wire Line
 	19200 2300 19100 2300
 $Comp
-L MX_Alps_Hybrids:MX-1U MACRO4
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids MACRO4
 U 1 1 5CA87223
 P 19225 3625
 F 0 "MACRO4" H 19311 3842 60  0000 C CNN
@@ -2304,7 +2304,7 @@ Wire Wire Line
 Wire Wire Line
 	8725 3600 8725 4400
 $Comp
-L MX_Alps_Hybrids:MX-1U PLUS1
+L Custom-Keyboard-rescue:MX-1U-MX_Alps_Hybrids PLUS1
 U 1 1 5C976E52
 P 6600 2875
 F 0 "PLUS1" H 6686 3092 60  0000 C CNN
@@ -2617,7 +2617,7 @@ Connection ~ 19400 2850
 Wire Wire Line
 	19400 2850 19400 3600
 $Comp
-L MX_Alps_Hybrids:MX-1.25U CTRL1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids CTRL1
 U 1 1 5D09268A
 P 10225 4425
 F 0 "CTRL1" H 10311 4642 60  0000 C CNN
@@ -2644,7 +2644,7 @@ $EndComp
 Wire Wire Line
 	10100 4600 10200 4600
 $Comp
-L MX_Alps_Hybrids:MX-1.25U WIN1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids WIN1
 U 1 1 5D0B5080
 P 10875 4425
 F 0 "WIN1" H 10961 4642 60  0000 C CNN
@@ -2671,7 +2671,7 @@ $EndComp
 Wire Wire Line
 	10750 4600 10850 4600
 $Comp
-L MX_Alps_Hybrids:MX-1.25U ALT1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids ALT1
 U 1 1 5D0D734A
 P 11525 4425
 F 0 "ALT1" H 11611 4642 60  0000 C CNN
@@ -2733,7 +2733,7 @@ Wire Wire Line
 Wire Wire Line
 	10400 4400 10400 4925
 $Comp
-L MX_Alps_Hybrids:MX-1.25U FN1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids FN1
 U 1 1 5D29A4FE
 P 16700 4425
 F 0 "FN1" H 16786 4642 60  0000 C CNN
@@ -2757,7 +2757,7 @@ $EndComp
 Wire Wire Line
 	16575 4600 16675 4600
 $Comp
-L MX_Alps_Hybrids:MX-1.25U LOWER1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids LOWER1
 U 1 1 5D29A50E
 P 17350 4425
 F 0 "LOWER1" H 17436 4642 60  0000 C CNN
@@ -2781,12 +2781,12 @@ $EndComp
 Wire Wire Line
 	17225 4600 17325 4600
 $Comp
-L MX_Alps_Hybrids:MX-1.25U RAISE1
+L Custom-Keyboard-rescue:MX-1.25U-MX_Alps_Hybrids RAISE1
 U 1 1 5D29A51E
 P 17975 4425
 F 0 "RAISE1" H 18061 4642 60  0000 C CNN
 F 1 "MX-1.25U" H 18061 4568 20  0000 C CNN
-F 2 "MX_Alps_Hybrid:MX-1.25U" H 17950 4400 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U-NoLED" H 17950 4400 60  0001 C CNN
 F 3 "" H 17950 4400 60  0001 C CNN
 	1    17975 4425
 	1    0    0    -1  
@@ -2812,7 +2812,7 @@ Wire Wire Line
 Connection ~ 16575 4800
 Connection ~ 11400 4800
 $Comp
-L MX_Alps_Hybrids:MX-6.25U SPC1
+L Custom-Keyboard-rescue:MX-6.25U-MX_Alps_Hybrids SPC1
 U 1 1 5D39F669
 P 14100 4425
 F 0 "SPC1" H 14186 4642 60  0000 C CNN
@@ -2967,7 +2967,7 @@ Row2
 Text GLabel 6100 1750 0    50   Input ~ 0
 Row1
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
+L Custom-Keyboard-rescue:Molex-0548190589-random-keyboard-parts USB1
 U 1 1 5D6CC589
 P 2100 6800
 F 0 "USB1" V 2637 6769 60  0000 C CNN
@@ -3037,7 +3037,7 @@ D-
 Text GLabel 2400 6800 2    50   Input ~ 0
 D+
 $Comp
-L MX_Alps_Hybrids:MX-2U ENTER1
+L Custom-Keyboard-rescue:MX-2U-MX_Alps_Hybrids ENTER1
 U 1 1 5D7DE43B
 P 6600 3625
 F 0 "ENTER1" H 6686 3842 60  0000 C CNN
