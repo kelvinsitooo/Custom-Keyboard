@@ -3041,9 +3041,106 @@ U 1 1 5D7DE43B
 P 6600 3625
 F 0 "ENTER1" H 6686 3842 60  0000 C CNN
 F 1 "MX-2U" H 6686 3768 20  0000 C CNN
-F 2 "" H 6575 3600 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MX-2U" H 6575 3600 60  0001 C CNN
 F 3 "" H 6575 3600 60  0001 C CNN
 	1    6600 3625
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	8825 5600 6100 5600
+Connection ~ 8825 5600
+Text GLabel 6100 5600 0    50   Input ~ 0
+Row6
+Wire Wire Line
+	8425 3250 10100 3250
+Connection ~ 8425 3250
+Wire Wire Line
+	10100 3250 10750 3250
+Connection ~ 10100 3250
+Connection ~ 10750 3250
+Wire Wire Line
+	10750 3250 11400 3250
+Connection ~ 11400 3250
+Wire Wire Line
+	11400 3250 12050 3250
+Connection ~ 12050 3250
+Wire Wire Line
+	12050 3250 12675 3250
+Connection ~ 12675 3250
+Wire Wire Line
+	12675 3250 13325 3250
+Connection ~ 13325 3250
+Wire Wire Line
+	13325 3250 13975 3250
+Connection ~ 13975 3250
+Wire Wire Line
+	13975 3250 14625 3250
+Connection ~ 14625 3250
+Wire Wire Line
+	14625 3250 15275 3250
+Connection ~ 15275 3250
+Wire Wire Line
+	15275 3250 15925 3250
+Connection ~ 15925 3250
+Wire Wire Line
+	15925 3250 16575 3250
+Connection ~ 16575 3250
+Wire Wire Line
+	16575 3250 17225 3250
+Connection ~ 17225 3250
+Wire Wire Line
+	17225 3250 18475 3250
+Connection ~ 18475 3250
+Wire Wire Line
+	18475 3250 19100 3250
+Text GLabel 4300 3100 2    50   Input ~ 0
+Col5
+Text GLabel 4300 3300 2    50   Input ~ 0
+Col6
+Text GLabel 4300 3400 2    50   Input ~ 0
+Col7
+Text GLabel 4300 1900 2    50   Input ~ 0
+Col8
+Text GLabel 4300 2000 2    50   Input ~ 0
+Col9
+Text GLabel 4300 2100 2    50   Input ~ 0
+Col10
+Text GLabel 4300 2400 2    50   Input ~ 0
+Col11
+Text GLabel 4300 2500 2    50   Input ~ 0
+Col12
+Text GLabel 4300 4400 2    50   Input ~ 0
+Col13
+Text GLabel 4300 4300 2    50   Input ~ 0
+Col14
+Text GLabel 4300 4200 2    50   Input ~ 0
+Col15
+Text GLabel 4300 4100 2    50   Input ~ 0
+Col16
+Text GLabel 4300 4000 2    50   Input ~ 0
+Col17
+Text GLabel 4300 3900 2    50   Input ~ 0
+Col18
+Text GLabel 4300 2700 2    50   Input ~ 0
+Row1
+Text GLabel 4300 2800 2    50   Input ~ 0
+Col19
+Text GLabel 4300 2900 2    50   Input ~ 0
+Row2
+Text GLabel 4300 3000 2    50   Input ~ 0
+Row3
+Text GLabel 4300 3200 2    50   Input ~ 0
+Row4
+Text GLabel 4300 1700 2    50   Input ~ 0
+Row5
+Text GLabel 4300 1800 2    50   Input ~ 0
+Row6
+Text GLabel 4300 2200 2    50   Input ~ 0
+Col4
+Text GLabel 4300 1600 2    50   Input ~ 0
+Col3
+Text GLabel 4300 1500 2    50   Input ~ 0
+Col2
+Text GLabel 4300 3700 2    50   Input ~ 0
+Col1
 $EndSCHEMATC
